@@ -4,6 +4,8 @@
 
 A fully responsive and dynamic e-commerce web application built with **React**, **Tailwind CSS**, **Firebase**, and smooth **scroll animations**.
 
+- 🔗 **Behance Design:** [Heba Elgohary](https://www.behance.net/gallery/223995671/Clothing-fashion-E-commerce-Website)
+  <iframe src="https://www.behance.net/embed/project/223995671?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 ---
 
 ## 🚀 Features
@@ -12,7 +14,6 @@ A fully responsive and dynamic e-commerce web application built with **React**, 
 - 🧾 Checkout flow with payment and shipping forms  
 - 📦 Orders saved to Firebase Firestore  
 - 🔐 Form validations and user input management  
-- 🌐 Responsive design across devices  
 - ✨ Scroll-triggered animations using custom animation logic  
 
 ---
@@ -32,11 +33,9 @@ A fully responsive and dynamic e-commerce web application built with **React**, 
   - Firebase (Firestore)
 
 - **Tools / Libraries:**  
-  - Vite  
-  - UUID  
   - React Icons  
   - React Toastify  
-  - Framer Motion (optional enhancement)
+  - Framer Motion
 
 ---
 
@@ -44,7 +43,6 @@ A fully responsive and dynamic e-commerce web application built with **React**, 
 
 - Home  
 - Products  
-- Product Details  
 - Cart  
 - Checkout (Payment + Shipping)  
 - Success Confirmation  
@@ -56,9 +54,10 @@ A fully responsive and dynamic e-commerce web application built with **React**, 
 
 You can check a live walkthrough video of the project on my pages:
 
-- 🔗 **Facebook:** [Heba Elgohary](https://www.facebook.com/heba.elgohary.dev)  
-- 🔗 **LinkedIn:** [Heba Elgohary](https://www.linkedin.com/in/heba-elgohary/)  
-- 📸 **Instagram:** [@heba.elgohary.dev](https://www.instagram.com/heba.elgohary.dev)
+- 🔗 **Behance:** [Heba Elgohary](https://www.behance.net/hebaabdelhamed1)  
+- 🔗 **Facebook:** [Heba Elgohary](https://web.facebook.com/heba.abdelhamed.e/)  
+- 🔗 **LinkedIn:** [Heba Elgohary](https://www.linkedin.com/in/heba-elgohary-a13074167/)  
+- 📸 **Instagram:** [heba_elgohary__](https://www.instagram.com/heba_elgohary__)
 
 ---
 
