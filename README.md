@@ -1,6 +1,6 @@
 # E-Commerce Full Web App 🛍️ — React, Tailwind, Firebase
 
-![E-Commerce Website Screenshot](./screenshot.png)
+![E-Commerce Website Screenshot](./Repocover.png)
 
 A fully responsive and dynamic e-commerce web application built with **React**, **Tailwind CSS**, **Firebase**, and smooth **scroll animations**.
 
